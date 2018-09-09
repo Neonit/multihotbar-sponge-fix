@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "minVersion": "0.7.10",
+  "package": "de.neonit.mhbspgfix",
+  "refmap": "mixins.mhbspgfix.refmap.json",
+  "target": "@env(DEFAULT)",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "InventoryPlayerMixin"
+  ]
+}
